@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "goldenpan",
+	"version": "1.0.0",
+	"name": "Golden Pan",
+	"description": "Allows players to pan materials like iron, gold, and even diamonds from sand, gravel, red sand, and mud using a special pan item. Great for early-game resource gathering!",
+	"authors": [
+		"Hrajto Studio"
+	],
+	"contact": {
+		"sources": "https://github.com/Hrajto1/Golden-Pan"
+	},
+	"license": "MIT",
+	"icon": "assets/goldenpan/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.hrajtostudio.goldenpan.GoldenPanMod"
+		],
+		"fabric-datagen": [
+			"com.hrajtostudio.goldenpan.GoldenPanDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

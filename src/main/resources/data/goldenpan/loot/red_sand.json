@@ -1,0 +1,10 @@
+[
+  { "item": "minecraft:red_sand", "chance": 0.3 },
+  { "item": "minecraft:iron_nugget", "chance": 0.1 },
+  { "item": "minecraft:flint", "chance": 0.15 },
+  { "item": "minecraft:coal", "chance": 0.1 },
+  { "item": "minecraft:diamond", "chance": 0.005 },
+  { "item": "minecraft:gold_nugget", "chance": 0.03 },
+  { "item": "minecraft:redstone", "chance": 0.04 },
+  { "item": "minecraft:lapis_lazuli", "chance": 0.02 }
+]

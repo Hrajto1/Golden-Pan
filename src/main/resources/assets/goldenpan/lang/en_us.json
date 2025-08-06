@@ -1,0 +1,11 @@
+{
+  "item.goldenpan.wooden_pan": "Wooden Pan",
+  "item.goldenpan.wooden_pan_with_gravel": "Wooden Pan with Gravel",
+  "item.goldenpan.wooden_pan_with_sand": "Wooden Pan with Sand",
+  "item.goldenpan.wooden_pan_with_red_sand": "Wooden Pan with Red Sand",
+  "item.goldenpan.wooden_pan_with_mud": "Wooden Pan with Mud",
+
+  "message.must_be_in_flowing_water": "You must stand in flowing water!",
+
+  "itemgroup.goldenpan": "Golden Pan"
+}
